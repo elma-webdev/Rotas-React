@@ -1,0 +1,22 @@
+footer{
+    background-Color:black;
+    width:auto;
+    color:white; 
+    display: flex;
+    height: 10vh;
+    align-items:center;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+footer div{
+    display:flex;
+    gap: 10px;
+}
+footer div:hover{
+    cursor: pointer;
+    color:#dc9947;
+    width: auto;
+    border-radius:20px;
+}
